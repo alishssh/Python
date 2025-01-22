@@ -1,15 +1,12 @@
-Task 2: Use ORM to setup database structure and relationships....and do CRUD operations also
-Books and Author are used to setup database.
-Under Myprojects
-Settings.py we add myapp on installed app so that an app is created.
+**3. Create a many to many ER table using ORM and perform CRUD operation.**
 
-•	First Models are set in Models.py having class Author and Books.
-•	Views.py are setup to retrieve it in url as homepage, author_list and author_detail
-•	Admin.py is setup to see it in Django admin panel as admin.site.register(Author, Books)
-•	Under urls.py path to the models and views is set.
+•	Created Customer, Order and Product on models.py to make many-many relations.
+•	Registered all the entities in admin.
+•	Apps and database was connected in settings.py
+•	Python manage.py makemigrations
+•	Python manage.py migrate.
+•	Tables were made on the Postgresql
+Crud operation is performed.
  
- 
-CRUD operation performed in a shell python manage.py shell.
- 
- 
+**CRUD Operation. **
  
