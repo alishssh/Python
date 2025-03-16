@@ -344,11 +344,13 @@ The API isthen available in [https://127.0.0.1:8000/\>](https://127.0.0.1:8000/<
 
  [](https://127.0.0.1:8000/<ticker)
 
-[**Fetching the data**](https://127.0.0.1:8000/<ticker)
+[**Fetching the data**]
+[http://127.0.0.1:5000/stocks/SEF](http://127.0.0.1:5000/stocks/SEF)
+![Image](https://github.com/user-attachments/assets/626face5-f714-4186-b27e-168749e9f04b)
 
-[Sending GET request for](https://127.0.0.1:8000/<ticker) [http://127.0.0.1:5000/stocks/SEF](http://127.0.0.1:5000/stocks/SEF)
 
 Sending POST request for [http://127.0.0.1:5000/stocks/NMB50](http://127.0.0.1:5000/stocks/NMB50)
+![Image](https://github.com/user-attachments/assets/187b20bc-c603-4e49-ab5d-a64954d6ae1d)
 
 **Conclusion:**
 
